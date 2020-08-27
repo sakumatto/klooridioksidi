@@ -1,11 +1,14 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Vastuuvapauslauseke
+logo: img/klooridioksidi.svg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Käyttösuositusko?
+    text: EI. Emme suosittele käyttöä, vaan ainoastaan annamme neuvoja. Sinä ja vain
+      sinä itse päätät mitä käytät ja mihin tarpeeseen.
+  - heading: Vaarallistako?
+    text: EI. Oikein käytettynä on olemassa näyttöä, ettei ClO2 eli klooridioksidi
+      ole vaarallista. Mutta vaarallisuushan onkin aina määrän ja käyttötavan
+      yhdistelmä, joten järki käteen.
 ---
 
 We’d love to get in touch with you and hear your ideas and

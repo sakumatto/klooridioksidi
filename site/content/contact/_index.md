@@ -17,5 +17,5 @@ Jos olet alaikäinen tai muuten vajaasti päätösvaltainen tekemisistäsi, sinu
 Tämän sivuston tarkoitus on vain jakaa tietoa. Minkä tahansa aineen käyttäjänä olet itse vastuussa siitä miten tiedon perusteella toimit.
 <br />&nbsp;
 <h3 class="f4 b lh-title mb2">Tietosuojalauseke</h3>
-Tämä sivusto palvellaan Netlifyn palvelimilta. Emme kerää mitään tietoja sinusta emmekä aseta evästeitä mihinkään tarkoitukseen.
+Tämä sivusto palvellaan Netlifyn palvelimilta. Emme kerää mitään tietoja sinusta emmekä aseta evästeitä mihinkään tarkoitukseen, muuta kuin nf_jwt suojattujen yhteyksien luomiseksi selaimeesi.
 <br />&nbsp;

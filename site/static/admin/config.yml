@@ -17,7 +17,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Teksti", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Infosivut"
-    create: true # Allow users to create new documents in this collection
     files:
       - file: "site/content/_index.md"
         label: "Etusivu"
@@ -33,13 +32,15 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "CD", name: products, widget: list, fields: [
+              {label: "Heading", name: "heading", widget: string},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "CDS", name: "values", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
+              {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
       - file: "site/content/contact/_index.md"
-        label: "Yhteydenotto"
+        label: "Tietosuoja"
         name: "contact"
         fields:
           - {label: Title, name: title, widget: string}

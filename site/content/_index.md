@@ -14,10 +14,10 @@ intro:
     CDS (eli veteen imeytetty klooridioksidi) 
     CD (eli klooridioksidi)
 products:
-  - image: img/cd-logo.png
+  - image: img/cd-logo-musta_tausta.png
     text: CD on ensimmäinen asteen kemiallisen reaktion tuotos, kun kotona teet
       klooridioksidia Kalckerin ohjeilla.
-  - image: img/cds-logo.png
+  - image: img/cds-logo-musta_tausta.png
     text: CDS on lopputuotos kun CD on imeytetty veteen, jolloin seos on stabiili ja
       turvallinen sekä helppo kuljettaa pullossa mukana.
 values:

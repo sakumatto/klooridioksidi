@@ -10,11 +10,11 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Otsikko", name: "title", widget: "string"}
+      - {label: "Julkaisu-pvm", name: "date", widget: "datetime"}
+      - {label: "Intro ", name: "description", widget: "text"}
+      - {label: "Kuva", name: "image", widget: "image", required: false}
+      - {label: "Teksti", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Infosivut"
     create: true # Allow users to create new documents in this collection
@@ -23,19 +23,19 @@ collections: # A list of collections the CMS should be able to edit
         label: "Etusivu"
         name: "home"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Image, name: image, widget: image}
+          - {label: Otsikko, name: title, widget: string}
+          - {label: Alaotsikko, name: subtitle, widget: string}
+          - {label: Kuva, name: image, widget: image}
           - {label: "Blurb", name: blurb, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Intro", name: intro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Products", name: products, widget: list, fields: [
+          - {label: "CD", name: products, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Values", name: "values", widget: "object", fields: [
+          - {label: "CDS", name: "values", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
       - file: "site/content/contact/_index.md"

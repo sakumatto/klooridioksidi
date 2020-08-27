@@ -18,14 +18,17 @@ products:
     text: CD on ensimmäinen asteen kemiallisen reaktion tuotos, kun kotona teet
       klooridioksidia Kalckerin ohjeilla.
   - image: img/cds-logo.png
-    text: CDS on lopputuotos kun CD on imeytetty veteen, jolloin seos on stabiili ja turvallinen sekä helppo kuljettaa pullossa mukana.
-  - text: >-
-      Kuvalähde: Sivun suurkuvan lähde on:
-      https://www.flickr.com/photos/oakleyoriginals/4857617461 
-
-      Attribution 2.0 Generic (CC BY 2.0)
-    image: img/veden-puhdistus-www.flickr.com_photos_oakleyoriginals_4857617461.jpg
+    text: CDS on lopputuotos kun CD on imeytetty veteen, jolloin seos on stabiili ja
+      turvallinen sekä helppo kuljettaa pullossa mukana.
 values:
   heading: Klooridioksidin OVA-ohje
-  text: "TTL:n OVA-ohjeen löydät täältä: https://xit.fi/clo2-ova-ohje."
+  text: >-
+    TTL:n OVA-ohjeen löydät täältä: https://xit.fi/clo2-ova-ohje.
+
+
+    ---------------------
+
+    Kuvalähdetieto: Sivun suurkuvan lähde on: https://www.flickr.com/photos/oakleyoriginals/4857617461 
+
+    Attribution 2.0 Generic (CC BY 2.0)
 ---

@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "fi-fi"
 languageLang = "fi"
-title = "Kotisivu"
+title = "ClO2 | Klooridioksi-info"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

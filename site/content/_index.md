@@ -1,7 +1,7 @@
 ---
 title: ClO2 | Klooridioksi-info
 subtitle: Kiihkotta ja kansantajuisesti
-image: img/about-direct-sourcing.jpg
+image: img/veden-puhdistus-www.flickr.com_photos_oakleyoriginals_4857617461.jpg
 blurb:
   heading: Miten käytät klooridioksidia?
   text: Andreas Kalckerin teko-ohjeet löydät tältä sivustolta selvällä suomen
@@ -20,10 +20,13 @@ products:
   - image: img/cds-logo.png
     text: CDS on lopputuotos kun CD on imeytetty veteen, jolloin seos on stabiili ja
       turvallinen sekä helppo kuljettaa pullossa mukana.
+  - text: >-
+      Kuvalähde: Sivun suurkuvan lähde on:
+      https://www.flickr.com/photos/oakleyoriginals/4857617461 
+
+      Attribution 2.0 Generic (CC BY 2.0)
+    image: img/veden-puhdistus-www.flickr.com_photos_oakleyoriginals_4857617461.jpg
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Klooridioksidin OVA-ohje
+  text: "TTL:n OVA-ohjeen löydät täältä: https://xit.fi/clo2-ova-ohje."
 ---

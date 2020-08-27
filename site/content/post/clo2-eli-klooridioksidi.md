@@ -6,3 +6,7 @@ description: Tämän sivuston tarkoitus on esitellä klooridioksidin ominaisuuks
 image: img/klooridioksidi.svg
 ---
 Klooridioksi
+
+
+
+Sana [klooridioksidi](https://en.wiktionary.org/wiki/klooridioksidi)

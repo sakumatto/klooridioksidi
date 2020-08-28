@@ -10,16 +10,22 @@ blurb:
     informatiivisina.
 intro:
   heading: CD ja CDS, mitä ne ovat?
-  text: |
-    CDS (eli veteen imeytetty klooridioksidi) 
-    CD (eli klooridioksidi)
+  text: >+
+    Nykyään usein puhutaan klooridioksidin käytettävistä muodoista nimikkeillä
+    CD (eli klooridioksidi) ja CDS (eli veteen imeytetty klooridioksidi). Nämä
+    molemmat ovat veteen sekoitettavia muotoja, mutta CD ei ole stabiili, vaan
+    lämpimässä ja avoimessa astiassa se haihtuu nopeasti ja siksi CDS on
+    suositeltavampi muoto mukaan otettavaksi.
+
 products:
   - image: img/cd-logo-musta_tausta.png
     text: CD on ensimmäinen asteen kemiallisen reaktion tuotos, kun kotona teet
       klooridioksidia Kalckerin ohjeilla.
+    heading: CD
   - image: img/cds-logo-musta_tausta.png
     text: CDS on lopputuotos kun CD on imeytetty veteen, jolloin seos on stabiili ja
       turvallinen sekä helppo kuljettaa pullossa mukana.
+    heading: CDS
 values:
   heading: Klooridioksidin OVA-ohje
   text: >-

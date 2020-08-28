@@ -21,6 +21,6 @@ main:
     valmistetaan kotona.
   image3:
     image: img/logo.png
-    alt: Klooridioksidi
+    alt: Klooridioksidin kaava
 full_image: img/veden-puhdistus-www.flickr.com_photos_oakleyoriginals_4857617461.jpg
 ---

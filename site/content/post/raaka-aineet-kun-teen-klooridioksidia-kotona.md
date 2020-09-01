@@ -12,5 +12,5 @@ Raaka-aineita on tasan kaksi ja ne ovat
 
 *  suolahappo, HCl, 4-prosenttinen liuos
 
-Nämä ainesosat sekoitetaan 1:1 eli sama määrä kumpaakin yhteen astiaan ulkona, jotta syntyvää kaasua ei joudu hegittämään. Molempien ainesosien tulee olla jääkaappikylmiä ja valmista klooridioksidia tulee myös säilyttää jääkaapissa.
+Nämä ainesosat sekoitetaan 1:1 eli sama määrä kumpaakin yhteen astiaan ulkona, jotta syntyvää kaasua ei joudu hengittämään. Molempien ainesosien tulee olla jääkaappikylmiä ja valmista klooridioksidia tulee myös säilyttää jääkaapissa.
 

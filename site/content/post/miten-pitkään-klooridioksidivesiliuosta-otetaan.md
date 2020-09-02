@@ -14,9 +14,7 @@ Tämä vastaus on monitahoinen siten, että samalla kun pohditaan miten pitkää
 
 ### Kuinka pitkään kerralla CDS:ää
 
-Andreas Kalckerin sivuilta lyhyt vastaus on niin pitkään kuin vaivojen taltuttaminen vaatii.
-
-
+Andreas Kalckerin sivuilta lyhyt vastaus on niin pitkään kuin vaivojen taltuttaminen vaatii. Mutta kuuntele kehoasi äläkä toimi mekaanisesti.
 
 [Lähde](https://andreaskalcker.com/en/frequently-asked-questions-faq/)
 

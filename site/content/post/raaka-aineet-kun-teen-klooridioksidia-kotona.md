@@ -13,4 +13,4 @@ Raaka-aineita on tasan kaksi ja ne ovat
 
 Nämä ainesosat sekoitetaan 1:1 eli sama määrä kumpaakin yhteen astiaan ulkona, jotta syntyvää kaasua ei joudu hengittämään. Molempien ainesosien sekoittaminen on vaivatonta tehdä lääkeruiskulla mittaamalla 5ml ensin natriumkloriittia astiaan ja sitten suolahappoa samainen 5ml. Ennen kuin suolahapon lisää natriumkloriittiin, ei sinulla ole mitään kiirettä koska vasta yhdessä ne alkavat reagoida toisiinsa.
 
-Muistathan, että valmista klooridioksidia tulee säilyttää kylmässä ja poissa UV-säteilyltä, eli esimerkiksi jääkaapissa.
+Muistathan, että valmista klooridioksidia tulee säilyttää ilmatiiviissä astiassa, kylmässä ja poissa UV-säteilyltä, eli esimerkiksi jääkaapissa.

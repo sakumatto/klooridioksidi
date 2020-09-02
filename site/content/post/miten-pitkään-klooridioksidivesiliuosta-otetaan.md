@@ -1,6 +1,6 @@
 ---
 title: Miten pitkään klooridioksidivesiliuosta otetaan?
-date: 2020-09-02T04:49:36.507Z
+date: 2020-07-26T04:49:36.507Z
 description: |-
   CDS tuntuu toimivan, mutta miten pitkään sitä pitää ottaa?
   Lyhyt vastaus, ota kuuri kerrallaan siihen asti kun vaiva on ohi.

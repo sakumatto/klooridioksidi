@@ -16,8 +16,8 @@ Tämä vastaus on monitahoinen siten, että samalla kun pohditaan miten pitkää
 
 Andreas Kalckerin sivuilta lyhyt vastaus on niin pitkään kuin vaivojen taltuttaminen vaatii. Mutta kuuntele kehoasi äläkä toimi mekaanisesti.
 
-Pitää siksi siis erotella terveyttä yllä pitävä käyttö ja akuuttiin vaivaan otettava CDS:n käyttö.
+Pitää siksi siis erotella terveyttä yllä pitävä käyttö ja akuuttiin vaivaan otettava CDS:n käyttö. Annostus näissä kahdessa voi olla eri ja käyttöaika samoin.
 
 [Lähde](https://andreaskalcker.com/en/frequently-asked-questions-faq/)
 
-\-
+Kuvalähde: Designed by Wannapik

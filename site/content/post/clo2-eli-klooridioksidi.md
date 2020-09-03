@@ -12,4 +12,6 @@ Klooridioksidi on yli 100 vuotta tunnettu aine, jota käytetään vedenpuhdistuk
 Tällä sivustolla klooridioksidi (eli CD) ja klooridioksidivesi (eli CDS) ja niiden käyttö kotona, ovat aiheina.
 ![klooridioksia lasipurkissa](img/klooridioksidi-cds-vesipullo-ruisku-tiukka.jpg "Klooridioksia lasipurkissa")
 
+Kuten kuvasta yllä näkee, klooridioksidivesi on väriltään kellertävän vihertävää silloin, kun se on valmista käytettäväksi. Katso [valmistusohjeet](/post/raaka-aineet-kun-teen-klooridioksidia-kotona/) erikseen. Valmis CDS on vahvuudeltaan jotain alle 3000 ppm (eli alle 0,3%), josta sitä lisätään käyttöohjeen mukaisesti veteen sekoittaen useimmiten joitain millilitroja litraan tai puoleentoista vettä, jolloin käyttöliuos enää sadasosan tuosta vahvuudesta. Suoraa CD:tä (siis ilman vettä laimennusaineena) ei koskaan käytetä mihinkään muuhun kuin hajunpoistoon tai vastaavaan desinfiointitehtävään.
+
 Sana [klooridioksidi](https://en.wiktionary.org/wiki/klooridioksidi)

@@ -10,7 +10,7 @@ Tämä on päivitetty vanhan protokollan 101 muunnos, jossa otetaan huomioon vii
 
 Protokolla C on yleisprotokolla, joka sopii niin akuutteihin kuin kroonisiinkin vaivoihin.
 
-C-protokolla on hyödyllinen toksiinien poistoon kehosta ja sen teho perustuu juuri oksidointiin, sillää se tekee niin raskasmetalleille, patogeeneille ja toksiineille.
+C-protokolla on hyödyllinen toksiinien poistoon kehosta ja sen teho perustuu juuri oksidaatioon, sillä se tekee niin raskasmetalleille, patogeeneille ja toksiineille.
 
 CDS:ää käyttämällä protokolla C on käytännössä sivuvaikutukseton, eikä MMS-reseptejä aikanaan vaivanneet ripulointi tai pahoinvointi useimmiten ole haittana. 
 
@@ -27,10 +27,10 @@ Tämä on CDS-pohjainen protokolla. Toimi näin:
 * Lääkkeiden ennen tai jälkeen on pidettävä tunnin tauko ilman CDS:ää
 * Litraa vettä kohden ei saa lisätä enempää kuin 30ml CDS:ää, jos akuuttitila edellyttää, tee toinen pullollinen samalle päivälle
 * Missään tapauksessa yli 80 ml per päivä ei saa ylittää
-* CDS sekoitetaan veteen, ei maitoon tai mehuun
+* CDS sekoitetaan veteen – mieluiten ei maitoon eikä varsinkaan mehuun (kts video alla)
 
 #### Huomaathan myös
-Jos ilmenee pahoinvointia, puolita CDS:n määrä vedessä. Pieni päänsärky tma voi kuitenkin olla ns Herxheimer-vaikutus, josta ei ole tarpeen huolestua. Käytä siihen asti kun vointisi on parantunut. On eduksi käyttää CDS:ää usein ja vähän kerrallaan mielummin kuin harvoin ja paljon kerrallaan. Älä käytä metallisia astioita, koska CDS hapettaa ne. CDS sekoitettuna veteen tällä laimennussuhteella mahdollistaa PET-pullojen käytön, mutta pidä pullo silti kylmässä ja pimeässä milloin mahdollista.
+Jos ilmenee pahoinvointia, puolita CDS:n määrä vedessä. Pieni päänsärky tms voi kuitenkin olla ns [Herxheimer-vaikutus](https://en.wikipedia.org/wiki/Jarisch%E2%80%93Herxheimer_reaction), josta ei ole tarpeen huolestua. Käytä siihen asti kun vointisi on parantunut. On eduksi käyttää CDS:ää usein ja vähän kerrallaan mielummin kuin harvoin ja paljon kerrallaan. Älä käytä metallisia astioita, koska CDS hapettaa ne. CDS sekoitettuna veteen tällä laimennussuhteella mahdollistaa PET-pullojen käytön, mutta pidä pullo silti kylmässä ja pimeässä milloin mahdollista.
 > Ja muista: klooridioksidia ei pidä nauttia sisäisesti missään oloissa.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_phk-0gfCGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

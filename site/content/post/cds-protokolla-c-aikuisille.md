@@ -32,3 +32,5 @@ Tämä on CDS-pohjainen protokolla. Toimi näin:
 #### Huomaathan myös
 Jos ilmenee pahoinvointia, puolita CDS:n määrä vedessä. Pieni päänsärky tma voi kuitenkin olla ns Herxheimer-vaikutus, josta ei ole tarpeen huolestua. Käytä siihen asti kun vointisi on parantunut. On eduksi käyttää CDS:ää usein ja vähän kerrallaan mielummin kuin harvoin ja paljon kerrallaan. Älä käytä metallisia astioita, koska CDS hapettaa ne. CDS sekoitettuna veteen tällä laimennussuhteella mahdollistaa PET-pullojen käytön, mutta pidä pullo silti kylmässä ja pimeässä milloin mahdollista.
 > Ja muista: klooridioksidia ei pidä nauttia sisäisesti missään oloissa.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_phk-0gfCGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -22,6 +22,8 @@ Myös uuden klooridioksidin käyttäjän on syytä muistaa [puhdistusreaktiot](h
 
 Joten vaikkakaan mitään yleispätevää sääntöä käytön kestosta ei voidakaan antaa, voitaneen varmaankin todeta, että jatkuva käyttö kuukausien ajan ei ole tarpeen ja toisaalta se, että annostus pitää aloittaa alhaalta, mikäli ei ole ennen CDS:ää käyttänyt.
 
+> Ja muista: klooridioksidia ei pidä nauttia sisäisesti missään oloissa.
+
 [Lähde](https://andreaskalcker.com/en/frequently-asked-questions-faq/)
 
 Kuvalähde: Designed by Wannapik

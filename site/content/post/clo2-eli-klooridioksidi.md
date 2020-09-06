@@ -26,3 +26,5 @@ Nykyaikaiseen demokratiaan sopii huonosti Neuvostoliiton aikainen ihmisten leima
 
 
 Sana [klooridioksidi](https://en.wiktionary.org/wiki/klooridioksidi), TTL:n [OVA-ohje klooridioksidille](https://www.ttl.fi/ova/kloordio.pdf)
+
+> Ja muista: klooridioksidia ei pidä nauttia sisäisesti missään oloissa.

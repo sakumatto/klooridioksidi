@@ -32,3 +32,5 @@ Tällä videolla Andreas Kalcker kertoo klooridioksidin käytöstä koronan hoid
 [Andreas Kalckerin tarina klooridioksidin parissa](84j6mon3yigp7v54n3fedy83f68uy6pj) tällä videolla
 
 [Vain keho parantaa meidät](https://lbry.tv/$/download/Forbidden-Health,-Secret-Healing-Remedy---World-Crisis--- ANDREAS-KALCKER--Age-Of-Truth-TV-/51891cb8aee37616a17b4522060155c52b216ed3)
+
+[Veren tehtävä on kuljettaa happea ja saman tekee klooridioksidi - siis veren apupoikana](https://lbry.tv/$/download/Forbidden-Health,-Secret-Healing-Remedy---World-Crisis--- ANDREAS-KALCKER--Age-Of-Truth-TV-/51891cb8aee37616a17b4522060155c52b216ed3)

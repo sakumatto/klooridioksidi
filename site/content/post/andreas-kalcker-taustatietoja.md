@@ -30,3 +30,5 @@ Tällä videolla Andreas Kalcker kertoo klooridioksidin käytöstä koronan hoid
 <p><a href="https://vimeo.com/446316257">Andreas Kalcker</a> from <a href="https://vimeo.com/user118124582">Perseo Alcantara Diaz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 [Andreas Kalckerin tarina klooridioksidin parissa](84j6mon3yigp7v54n3fedy83f68uy6pj) tällä videolla
+
+[Vain keho parantaa meidät](https://lbry.tv/$/download/Forbidden-Health,-Secret-Healing-Remedy---World-Crisis--- ANDREAS-KALCKER--Age-Of-Truth-TV-/51891cb8aee37616a17b4522060155c52b216ed3)

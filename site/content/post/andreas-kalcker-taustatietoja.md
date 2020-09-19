@@ -28,3 +28,5 @@ Tällä videolla Andreas Kalcker kertoo klooridioksidin käytöstä koronan hoid
 
 <iframe src="https://player.vimeo.com/video/446316257" width="640" height="358" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/446316257">Andreas Kalcker</a> from <a href="https://vimeo.com/user118124582">Perseo Alcantara Diaz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+[Andreas Kalckerin tarina klooridioksidin parissa](84j6mon3yigp7v54n3fedy83f68uy6pj) tällä videolla

@@ -9,6 +9,7 @@ Bolivian pääkaupungin aluehallinto, La Paz, sallii klooridioksidin vapaan käy
 
 Lain julkilausuttuna tarkoituksena on toimia laaduntarkkailumekanismina ja jakelun tarkkailumekanismina klooridioksidiveden (CDS) käytön vapaaehtoisen käytön sallimiseksi.
 
-[Lähde](https://www.eluniversal.com.mx/mundo/la-paz-autoriza-uso-de-dioxido-de-cloro-para-enfermos-de-covid-19-en-bolivia)
+[Lähde 1](https://www.eluniversal.com.mx/mundo/la-paz-autoriza-uso-de-dioxido-de-cloro-para-enfermos-de-covid-19-en-bolivia),
+ [Lähde 2](https://actualidad.rt.com/actualidad/366247-gobernacion-paz-dioxido-cloro-coronavirus-bolivia), [Lakitiedote aluehallinnolta] (http://asamblealapaz.gob.bo/aldlp-logra-promulgacion-de-ley-departamental-no-193-para-el-uso-compasivo-de-dioxido-de-cloro/)
 
 [Kuva: CC BY-SA 3.0] (https://commons.wikimedia.org/w/index.php?curid=36652) La Paz

@@ -1,13 +1,13 @@
 ---
 title: Klooridioksidi sallitaan Bolivian La Pazissa
 date: 2020-09-20T14:20:12.390Z
-description: Bolivina pääkaupungin, La Pazin, aluehallinto sallii
+description: Bolivian pääkaupungin, La Pazin, aluehallinto sallii
   klooridioksidiveden (CDS) käytön koronavirustaudin hoitoon.
 image: img/la_paz-bolivia.jpg
 ---
 Bolivian pääkaupungin aluehallinto, La Paz, sallii klooridioksidin vapaan käytön coronavirustaudin hoitoon ihmisillä.
 
-Lain julkilausuttuna tarkoituksena on toimia laaduntarkkailumekanismina ja jakelun tarkkailumekanismina klooridioksidiveden (CDS) käytön vapaaehtoisen käytön sallimiseksi.
+Lain julkilausuttuna tarkoituksena on toimia laaduntarkkailumekanismina ja jakelun tarkkailumekanismina klooridioksidiveden (CDS) vapaaehtoisen käytön sallimiseksi.
 >![Bolivian koronatilanne on synkkä syyskuussa 2020](https://pbs.twimg.com/media/EhmWHaAXYAAZCoe?format=jpg&name=small)
 Bolivian koronatilanne 10.9.2020
 

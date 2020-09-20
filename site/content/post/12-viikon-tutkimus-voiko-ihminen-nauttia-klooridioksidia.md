@@ -3,7 +3,7 @@ title: 12 viikon tutkimus voiko ihminen nauttia klooridioksidia
 date: 2020-09-20T04:10:31.070Z
 description: Kyllä voi.
 ---
-Kysymys siitä voiko klooridioksidivettä (CDS sekoitettuna veteen) turvallisin mielin nauttia, vaikkakin valtavirtainen media puhuu siitä tappavan myrkyllisenä, on ollut ainakin tämän [kokeen] (https://andreaskalcker.com/wp-content/uploads/2016/04/2.-Controlled-Clinical-Evaluations-of-Clo2-in-Man.pdf) ([varalinkki](https://archive.is/wip/SAzsS)) aiheena.
+Kysymys siitä voiko klooridioksidivettä (CDS sekoitettuna veteen) turvallisin mielin nauttia, vaikkakin valtavirtainen media puhuu siitä tappavan myrkyllisenä, on ollut ainakin tämän [kokeen](https://andreaskalcker.com/wp-content/uploads/2016/04/2.-Controlled-Clinical-Evaluations-of-Clo2-in-Man.pdf) ([varalinkki](https://archive.is/wip/SAzsS)) aiheena.
 
 ## 12 viikon klooridioksidikoe
 Tuon 12-viikkoisen kaksoissokkokokeen aikana vapaaehtoiset aikuiset miehet nauttivat  klooridioksidivettä pieninä annoksina (5mg/L). Kontrolliryhmä nautti pelkkää vettä ja koeryhmät eri aineita, joista yksi oli klooridioksidi. Tämä koe ei kyennyt osoittamaan mitään haittavaikutuksia, kuten ei [1981 tehtykään koe](https://www.tandfonline.com/doi/abs/10.1080/00039896.1981.10667601).

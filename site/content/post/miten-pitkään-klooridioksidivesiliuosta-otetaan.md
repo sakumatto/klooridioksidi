@@ -24,6 +24,11 @@ Joten vaikkakaan mitään yleispätevää sääntöä käytön kestosta ei voida
 
 > Ja muista: klooridioksidia ei pidä nauttia sisäisesti missään oloissa.
 
+**Päivitys 7.2.2021**: Sivuston ylläpitäjä on päivittäin juonut 1L protokollan C mukaista liuosta nyt noin yhdeksän kuukauden ajan ja huomionarvoista ovat olleet kaksi seikkaa:
+
+1. Joka-aamuinen vuotava nenä, selvästikin 50-vuotiaan kehoon kertynytta kuona-ainetta poistuu
+1. Jalkojani jo vuosia vaivannut reumaoire on kaikonnut käytännössä kokonaan
+
 [Lähde](https://andreaskalcker.com/en/frequently-asked-questions-faq/)
 
 Kuvalähde: Designed by Wannapik

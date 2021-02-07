@@ -1,5 +1,5 @@
 ---
-title: Kalckerin kirjan suomeksi
+title: Kalckerin kirja suomeksi
 date: 2021-02-07T09:06:00.553Z
 description: Ennakkotieto
 ---

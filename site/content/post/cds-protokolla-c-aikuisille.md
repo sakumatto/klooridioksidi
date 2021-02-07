@@ -22,12 +22,13 @@ CDS:ää käyttämällä protokolla C on käytännössä sivuvaikutukseton, eik�
 ### Miten toimin
 
 Tämä on CDS-pohjainen protokolla. Toimi näin:
-* Lisää 10 ml CDS:ää (3000 ppm vahvuista) litraan vettä (esim lasipulloon)
+* Lisää 5–10 ml CDS:ää (3000 ppm vahvuista) litraan vettä (esim lasipulloon)
 * Pullosta otetaan kerran tunnissa koko päivän ajan vähän kerrallaan kunnes pullo on tyhjä
 * Lääkkeiden ennen tai jälkeen on pidettävä tunnin tauko ilman CDS:ää
 * Litraa vettä kohden ei saa lisätä enempää kuin 30ml CDS:ää, jos akuuttitila edellyttää, tee toinen pullollinen samalle päivälle
 * Missään tapauksessa yli 80 ml per päivä ei saa ylittää
 * CDS sekoitetaan veteen – mieluiten ei maitoon eikä varsinkaan mehuun (kts [video](https://www.youtube.com/watch?v=_phk-0gfCGo) )
+* Samoin muista, ettei antioksidantteja kuten kahvi/tee/punaviini pidä nauttia samalla kuin CDS:ää. Hyvät vaikutukset kumoutuisivat näin toimimalla.
 
 #### Huomaathan myös
 Jos ilmenee pahoinvointia, puolita CDS:n määrä vedessä. Pieni päänsärky tms voi kuitenkin olla ns [Herxheimer-vaikutus](https://en.wikipedia.org/wiki/Jarisch%E2%80%93Herxheimer_reaction), josta ei ole tarpeen huolestua. Käytä siihen asti kun vointisi on parantunut. On eduksi käyttää CDS:ää usein ja vähän kerrallaan mielummin kuin harvoin ja paljon kerrallaan. Älä käytä metallisia astioita, koska CDS hapettaa ne. CDS sekoitettuna veteen tällä laimennussuhteella mahdollistaa PET-pullojen käytön, mutta pidä pullo silti kylmässä ja pimeässä milloin mahdollista.

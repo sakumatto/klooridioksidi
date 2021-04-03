@@ -22,4 +22,6 @@ Täytäntöönpano on ollut mahdollista useiden lääketieteellisten ryhmien, er
 
 COMUSAV (World Health and Life Coalition) kokoaa yhteen yli 3000 lääkäriä 24 maassa, jotka käyttävät CDS:ää erittäin onnistuneesti ottaen huomioon hoidon tehokkuuden ja haittavaikutusten puutteen käytetyillä annoksilla.
 
+Lisää materiaalia [ClO2:n käytöstä Covid19-taudin hoitoon](https://mega.nz/folder/QJhjzBIB#X7oroB6I69wOppf4a0uMHA)
+
 [Lähde](https://xit.fi/kalcker-bolivia-covid-toimiit)

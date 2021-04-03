@@ -1,11 +1,11 @@
 ---
 title: Tutkimus valmistunut, klooridioksidi toimii Covid19-tautiin
 date: 2021-04-03T05:11:36.499Z
-description: Vain kaksi kuukautta siitä kun marraskuun 2020 alussa,
-  laajamittaisen käytön aloituksen jälkeen, jossa saatujen tietojen mukaan yli
-  2500 kuutiometriä klooridioksidia on tuotettu, kuolleisuus on laskenut lähelle
-  nollaa ja selkeä lasku infektiokäyrässä nostaa Bolivian ainutlaatuiseen
-  asemaan, koska sen naapurimaissa on edelleen kasvavia tartuntakäyriä.
+description: Marraskuun 2020 alun jälkeen Boliviassa oli tuotettu 2500 kuutiota
+  klooridioksidivettä (CDS) lääkinnälliseen käyttöön. Vain kaksi kuukautta tuon
+  laajamittaisen käytön seurauksena  kuolleisuus on laskenut lähelle nollaa ja
+  selkeä lasku infektiokäyrässä nostaa Bolivian ainutlaatuiseen asemaan, koska
+  sen naapurimaissa on edelleen kasvavia tartuntakäyriä.
 image: img/kuolemat-bolivia.png
 ---
 # Suun kautta nautittuna ClO2 liuotettuna veteen

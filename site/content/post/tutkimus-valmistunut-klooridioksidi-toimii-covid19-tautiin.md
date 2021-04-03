@@ -21,3 +21,5 @@ Johtopäätös: Klooridioksidi on tehokas COVID-19-taudin hoidossa ja tutkimukse
 Täytäntöönpano on ollut mahdollista useiden lääketieteellisten ryhmien, erityisesti tohtori P. Callisperisin ja tohtori Suxon Boliviassa, Boliviassa kuljettaman COMUSAVin ansiosta.
 
 COMUSAV (World Health and Life Coalition) kokoaa yhteen yli 3000 lääkäriä 24 maassa, jotka käyttävät CDS:ää erittäin onnistuneesti ottaen huomioon hoidon tehokkuuden ja haittavaikutusten puutteen käytetyillä annoksilla.
+
+[Lähde](https://xit.fi/kalcker-bolivia-covid-toimiit)

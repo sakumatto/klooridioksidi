@@ -1,16 +1,16 @@
 ---
-title: Miten pitkään klooridioksidivesiliuosta otetaan?
+title: Miten pitkään klooridioksidivesiliuosta käytetään?
 date: 2020-07-26T04:49:36.507Z
 description: |-
-  CDS tuntuu toimivan, mutta miten pitkään sitä pitää ottaa?
+  CDS tuntuu toimivan, mutta miten pitkään sitä pitää käyttää?
   Lyhyt vastaus, ota kuuri kerrallaan siihen asti kun vaiva on ohi.
 image: img/kalenteri-miten-pitkaan-cds-nautitaan.png
 ---
-Mitään hoitoa tai ainetta ei lähtökohtaisesti tulisi ottaa ikuisesti. Se mikä CDS:stä tekee erityislaatuisen, on sen toimintatapa, jossa se oksidoimalla tappaa haitalliset pöpöt kehostamme ja siten niille ei voi syntyä vastustuskykyä CDS:lle. Klooridioksidi on siksi ihmiselle iso ystävä.
+Mitään hoitoa tai ainetta ei lähtökohtaisesti tulisi käyttää ikuisesti. Se mikä CDS:stä tekee erityislaatuisen, on sen toimintatapa, jossa se oksidoimalla tappaa haitalliset pöpöt kehostamme ja siten niille ei voi syntyä vastustuskykyä CDS:lle. Klooridioksidi on siksi ihmiselle iso ystävä.
 
-## Miten pitkään klooridioksidia kerralla sitten otetaan?
+## Miten pitkään klooridioksidia kerralla sitten käytetään?
 
-Tämä vastaus on monitahoinen siten, että samalla kun pohditaan miten pitkään CDS:ää (klooridioksidivesi) otetaan, pitää myös pohtia missä määrässä sitä otetaan.
+Tämä vastaus on monitahoinen siten, että samalla kun pohditaan miten pitkään CDS:ää (klooridioksidivesi) käytetään, pitää myös pohtia missä määrässä sitä otetaan.
 
 ### Kuinka pitkään kerralla CDS:ää
 

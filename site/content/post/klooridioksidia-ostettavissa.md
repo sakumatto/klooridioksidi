@@ -2,7 +2,8 @@
 title: Klooridioksidia ostettavissa
 date: 2023-02-24T07:30:41.293Z
 description: Vedenpuhdistustarkoitukseen saksalaisesta verkkokaupasta. Tämä on
-  sitä ihan oikeata tavaraa.
+  sitä ihan oikeata tavaraa, jota sekoitetaan 10ml per 1L kylmää vettä (muista
+  11° kaasuuntumislämpötila).
 image: img/klooridioksidia-hinta.jpg
 ---
 [https://www.kopp-verlag.de/a/osa-vita-cdl-03-0-inklusive-pipette](https://xit.fi/1dq)
